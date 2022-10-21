@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/sonocoin/sonolib-ts#readme",
   "dependencies": {
-    "axios": "latest",
+    "axios": "0.27.2",
     "big-integer": "latest",
     "bip39": "^2.5.0",
     "bs58": "latest",
